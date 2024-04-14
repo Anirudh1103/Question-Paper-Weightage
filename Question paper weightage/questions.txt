@@ -1,0 +1,5 @@
+1 With an example create a tuple using different ways.        6     3      4 
+2 Write a program to turn every item of a list into its square        6 3      4  
+3 When would you use a list vs dictionary explain with an example       6 3      5 
+4 A test file “PYTHON.TXT” contains alphanumeric text. Write a        6 2      4 
+5 Write a program to display all the lines in a file “python.txt”        6 2     4 

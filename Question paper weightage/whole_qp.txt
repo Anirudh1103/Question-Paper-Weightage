@@ -1,0 +1,18 @@
+Sri Siddhartha Institute of Technology, Tumkur 
+(A constituent college of Sri Siddhartha Academy of Higher Education, Tumkur) 
+ 
+CS4TH4 : Programming with Python 
+Date: 20 June 23   Test 2                Time: 3 to 4 PM 
+Sem: 4                      Max. Marks: 30 
+Answer all the questions 
+Q.No               M C     B 
+1 With an example create a tuple using different ways.        6     3      4 
+2 Write a program to turn every item of a list into its square        6 3      4  
+3 When would you use a list vs dictionary explain with an example       6 3      5 
+4 A test file “PYTHON.TXT” contains alphanumeric text. Write a        6 2      4 
+ Program that reads this text file and writes to another file 
+ “PYTHON1.TXT” entire file except the umbers or digits in the file.         
+5 Write a program to display all the lines in a file “python.txt”        6 2     4 
+ Which have the word “to” in it.    
+ 
+ 
